@@ -30,6 +30,4 @@ It provides a seamless shopping experience for customers while giving store admi
 - **Server**: Apache (via XAMPP/WAMP/LAMP)
 
 
----
-
-## 📂 Project Structur
+-
