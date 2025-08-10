@@ -28,6 +28,3 @@ It provides a seamless shopping experience for customers while giving store admi
 - **Backend**: PHP (Procedural / OOP as applicable)
 - **Database**: MySQL
 - **Server**: Apache (via XAMPP/WAMP/LAMP)
-
-
--
